@@ -1,0 +1,23 @@
+let -> LET
+index -> ID
+as -> AS
+int -> INT_TYPE
+= -> EQUAL
+0 -> INT_NUM
+; -> SEMI
+
+do -> DO
+index -> ID
+= -> EQUAL
+index -> ID
++ -> ADD
+1 -> INT_NUM
+
+loop -> LOOP
+until -> UNTIL
+index -> ID
+< -> LT
+= -> EQUAL
+5.0 -> FLOAT_NUM
+; -> SEMI
+

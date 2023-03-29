@@ -1,0 +1,6 @@
+ let index as int = 0;
+ do index = index+1 loop until index <= 5.0; 
+
+a) Perform Lexical Analysis on the given code snippet. 
+b) Perform Syntax Analysis on the given code snippet.
+ c) Perform Semantic Analysis on the given code snippet.

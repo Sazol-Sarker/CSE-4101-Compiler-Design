@@ -1,0 +1,3 @@
+let index as int = 0;
+do index = index+1 
+loop until index <= 5.0; 
